@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "285975349615",
+    "firebase_url": "https://ocr-student-d4bad.firebaseio.com",
+    "project_id": "ocr-student-d4bad",
+    "storage_bucket": "ocr-student-d4bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285975349615:android:ed8b385a48fb916794409a",
+        "android_client_info": {
+          "package_name": "com.example.ocr_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285975349615-a5jddmdlr8bu3etivfj9df902psdklt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ocr_scanner",
+            "certificate_hash": "8dead993abbd9b13e56ab0095e9787cc75db2767"
+          }
+        },
+        {
+          "client_id": "285975349615-poob9158hhn2mqu2p2pe40gd416dahhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASazHOIcHFBriQ23IAvZ6ym6fiw8C3I98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285975349615-poob9158hhn2mqu2p2pe40gd416dahhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
